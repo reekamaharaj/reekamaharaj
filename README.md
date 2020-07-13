@@ -1,9 +1,9 @@
 ### Hi. I'm Reeka. :wave:
-I pride myself on being a hard worker and will always take the opportunity to learn. I enjoy taking on challenging projects and learning to work in new environments.
+I pride myself on being a hard worker and will always take the opportunity to learn. I enjoy taking on challenging projects and learning to work in new environments. 
 
-I had a short career in Civil Engineering before I decided to take a step back to re-evaluate my life goals. I took some time to volunteer with non-profits, substitute for my public school district, become a support group leader and start a small art business. Through each option, there was a connecting factor. The importance of software development. I saw gaps that could be filled with the right software application.
+I had a short career in Civil Engineering before I decided to take a step back to re-evaluate my life goals. I took some time to volunteer with non-profits, substitute for my public school district, become a support group leader and start a small art business. Through each option, there was a connecting factor. The importance of software development. I saw gaps that could be filled with the right software application. 
 
-I have a passion for back-end, I enjoy the technical side of all things and have naturally gravitated towards server-side development.
+I am looking for a full-time position to apply all my new skills and become a better coder. With more experience I know I can build amazing, user-friendly applications. I would love to spend my time outside of work helping non-profits find ways to streamline their work so they can spend more time doing great things, and less time navigating confusing software.
 
 #### Other things about me
 * I am a mental health advocate. 
