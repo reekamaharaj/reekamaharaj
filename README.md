@@ -1,3 +1,4 @@
+
 ### Hi. I'm Reeka. :wave:
 
 * I am an aspiring software developer
@@ -16,5 +17,5 @@
 
 I spend my time looking for ways to help non-profits streamline their work so they can spend more time doing great things, and less time navigating confusing software.
 
-
+[*Avatar art and banner created by DigiInkDesign*](https://www.etsy.com/shop/DigiInkDesign)
 
