@@ -1,4 +1,4 @@
-![avatarbanner](https://github.com/reekamaharaj/reekamaharaj/blob/master/avatarandtext.png?raw=true)
+![avatarbanner](https://github.com/reekamaharaj/reekamaharaj/blob/master/Personal_Banner.png?raw=true)
 ### Hi. I'm Reeka. :wave:
 
 * I am an aspiring software developer
