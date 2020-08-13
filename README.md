@@ -1,7 +1,7 @@
 ![avatarbanner](https://github.com/reekamaharaj/reekamaharaj/blob/master/Personal_Banner.png?raw=true)
 ### Hi. I'm Reeka. :wave:
 
-* I am an aspiring software developer
+* I am a software developer
   * [Connect with me on LinkedIn](https://www.linkedin.com/in/reekamaharaj/)
   * [Check out my portfolio](https://www.reekamaharaj.com/)
 * I am a mental health advocate. 
