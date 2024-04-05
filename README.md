@@ -1,8 +1,7 @@
 ### Hi. I'm Reeka. :wave:
 
-* I am a technical writer
+* I am a technical writer for @pi-squared-network
   * [Connect with me on LinkedIn](https://www.linkedin.com/in/reekamaharaj/)
-  * [Check out my portfolio](https://www.reekamaharaj.com/)
 * I am a mental health advocate. 
   * I have a mental health blog, [I'll get there](https://illgetthere.com/)
 * I am a cat rescue advocate and volunteer.
