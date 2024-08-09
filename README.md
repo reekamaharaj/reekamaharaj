@@ -1,6 +1,6 @@
 ### Hi. I'm Reeka. :wave:
 
-* I am a technical writer for [Pi Squared Inc.](https://github.com/Pi-Squared-Inc)
+* I am a Documentation Engineer at [Pi Squared Inc.](https://github.com/Pi-Squared-Inc)
   * [Connect with me on LinkedIn](https://www.linkedin.com/in/reekamaharaj/)
 * I am a mental health advocate. 
   * I have a mental health blog, [I'll get there](https://illgetthere.com/)
